@@ -1,0 +1,846 @@
+Bulbasaur	Grass	Poison	45	45	15.2	45
+Ivysaur	Grass	Poison	60	60	28.7	45
+Venusaur	Grass	Poison	80	80	220.5	45
+Charmander	Fire		39	65	18.7	45
+Charmeleon	Fire		58	80	41.9	45
+Charizard	Fire	Flying	78	100	199.5	45
+Squirtle	Water		44	43	19.8	45
+Wartortle	Water		59	58	49.6	45
+Blastoise	Water		79	78	188.5	45
+Caterpie	Bug		45	45	6.4	255
+Metapod	Bug		50	30	21.8	120
+Butterfree	Bug	Flying	60	70	70.5	45
+Weedle	Bug	Poison	40	50	7.1	255
+Kakuna	Bug	Poison	45	35	22	120
+Beedrill	Bug	Poison	65	75	65	45
+Pidgey	Normal	Flying	40	56	4	255
+Pidgeotto	Normal	Flying	63	71	66.1	120
+Pidgeot	Normal	Flying	83	101	87.1	45
+Rattata	Normal		30	72	7.7	255
+AlolanRattata	Dark	Normal	30	72	8.4	255
+Raticate	Normal		55	97	40.8	127
+AlolalRatticate	Dark	Normal	75	77	56.2	127
+Spearow	Normal	Flying	40	70	4.4	255
+Fearow	Normal	Flying	65	100	83.8	90
+Ekans	Poison		35	55	15.2	255
+Arbok	Poison		60	80	143.3	90
+Pikachu	Electric		35	90	13.2	190
+Raichu	Electric		60	110	66.1	75
+AlolanRaichu	Electric	Psychic	60	110	46.3	75
+Sandshrew	Ground		50	40	26.5	255
+AlolanSandshrew	Ice	Steel	50	40	88.2	255
+Sandslash	Ground		75	65	65	90
+AlolanSandslash	Ice	Steel	75	65	121.3	90
+Nidoran(f)	Poison		55	41	15.4	235
+Nidorina	Poison		70	56	44.1	120
+Nidoqueen	Poison	Ground	90	76	132.3	45
+Nidoran(m)	Poison		46	50	19.8	235
+Nidorino	Poison		61	65	43	120
+Nidoking	Poison	Ground	81	85	136.7	45
+Clefairy	Fairy		70	35	16.5	150
+Clefable	Fairy		95	60	88.2	25
+Vulpix	Fire		38	65	21.8	190
+AlolanVulpix	Ice		38	65	21.8	190
+Ninetales	Fire		73	100	43.9	75
+AlolanNinetales	Ice	Fairy	73	109	43.9	75
+Jigglypuff	Normal	Fairy	115	20	12.1	170
+Wigglytuff	Normal	Fairy	140	45	26.5	50
+Zubat	Poison	Flying	40	55	16.5	255
+Golbat	Poison	Flying	75	90	121.3	90
+Oddish	Grass	Poison	45	30	11.9	255
+Gloom	Grass	Poison	60	40	19	120
+Vileplume	Grass	Poison	75	50	41	45
+Paras	Bug	Grass	35	25	11.9	190
+Parasect	Bug	Grass	60	30	65	75
+Venonat	Bug	Poison	60	45	66.1	190
+Venomoth	Bug	Poison	70	90	27.6	75
+Diglett	Ground		10	95	1.8	255
+AlolanDiglett	Ground	Steel	10	90	2.2	255
+Dugtrio	Ground		35	120	73.4	50
+AlolanDugtrio	Ground	Steel	35	110	146.8	50
+Meowth	Normal		40	90	9.3	255
+AlolanMeowth	Dark		40	90	9.3	255
+Persian	Normal		65	115	70.5	90
+AlolanPersian	Dark		65	115	72.8	90
+Psyduck	Water		50	55	43.2	190
+Golduck	Water		80	85	168.9	75
+Mankey	Fighting		40	70	61.7	190
+Primeape	Fighting		65	95	70.5	75
+Growlithe	Fire		55	60	41.9	190
+Arcanine	Fire		90	95	341.7	75
+Poliwag	Water		40	90	27.3	255
+Poliwhirl	Water		65	90	44.1	120
+Poliwrath	Water	Fighting	90	70	119	45
+Abra	Psychic		25	90	43	200
+Kadabra	Psychic		40	105	124.6	100
+Alakazam	Psychic		55	120	105.8	50
+Machop	Fighting		70	35	43	180
+Machoke	Fighting		80	45	155.4	90
+Machamp	Fighting		90	55	286.6	45
+Bellsprout	Grass	Poison	50	40	8.8	255
+Weepinbell	Grass	Poison	65	55	14.1	120
+Victreebel	Grass	Poison	80	70	34.2	45
+Tentacool	Water	Poison	40	70	100.3	190
+Tentacruel	Water	Poison	80	100	121.3	60
+Geodude	Rock	Ground	40	20	44.1	255
+AlolanGeodude	Rock	Electric	40	20	44.8	255
+Graveler	Rock	Ground	55	35	231.5	120
+AlolanGraveler	Rock	Electric	55	35	242.5	120
+Golem	Rock	Ground	80	45	661.4	45
+AlolanGolem	Rock	Electric	80	45	696.7	45
+Ponyta	Fire		50	90	66.1	190
+Rapidash	Fire		65	105	209.4	60
+Slowpoke	Water	Psychic	90	15	79.4	190
+Slowbro	Water	Psychic	95	30	173.1	75
+Magnemite	Electric	Steel	25	45	13.2	190
+Magneton	Electric	Steel	50	70	132.3	60
+Farfetch'd	Normal	Flying	52	60	33.1	45
+Doduo	Normal	Flying	35	75	86.4	190
+Dodrio	Normal	Flying	60	110	187.8	45
+Seel	Water		65	45	198.4	190
+Dewgong	Water	Ice	90	70	264.6	75
+Grimer	Poison		80	25	66.1	190
+AlolanGrimer	Poison	Dark	80	25	92.6	190
+Muk	Poison		105	50	66.1	75
+AlolanMuk	Poison	Dark	105	50	114.6	75
+Shellder	Water		30	40	8.8	190
+Cloyster	Water	Ice	50	70	292.1	60
+Gastly	Ghost	Poison	30	80	0.2	190
+Haunter	Ghost	Poison	45	95	0.2	90
+Gengar	Ghost	Poison	60	110	89.3	45
+Onix	Rock	Ground	35	70	463	45
+Drowzee	Psychic		60	42	71.4	190
+Hypno	Psychic		85	67	166.7	75
+Krabby	Water		30	50	14.3	225
+Kingler	Water		55	75	132.3	60
+Voltorb	Electric		40	100	22.9	190
+Electrode	Electric		60	150	146.8	60
+Exeggcute	Grass	Psychic	60	40	5.5	90
+Exeggutor	Grass	Psychic	95	55	264.6	45
+AlolanExeggutor	Grass	Dragon	95	45	916.2	45
+Cubone	Ground		50	35	14.3	190
+Marowak	Ground		60	45	99.2	75
+AlolanMarowak	Fire	Ghost	60	45	75	75
+Hitmonlee	Fighting		50	87	109.8	45
+Hitmonchan	Fighting		50	76	110.7	45
+Lickitung	Normal		90	30	144.4	45
+Koffing	Poison		40	35	2.2	190
+Weezing	Poison		65	60	20.9	60
+Rhyhorn	Ground	Rock	80	25	253.5	120
+Rhydon	Ground	Rock	105	40	264.6	60
+Chansey	Normal		250	50	76.3	30
+Tangela	Grass		65	60	77.2	45
+Kangaskhan	Normal		105	90	176.4	45
+Horsea	Water		30	60	17.6	225
+Seadra	Water		55	85	55.1	75
+Goldeen	Water		45	63	33.1	225
+Seaking	Water		80	68	86	60
+Staryu	Water		30	85	76.1	225
+Starmie	Water	Psychic	60	115	176.4	60
+Mr.Mime	Psychic	Fairy	40	90	120.2	45
+Scyther	Bug	Flying	70	105	123.5	45
+Jynx	Ice	Psychic	65	95	89.5	45
+Electabuzz	Electric		65	105	66.1	45
+Magmar	Fire		65	93	98.1	45
+Pinsir	Bug		65	85	121.3	45
+Tauros	Normal		75	110	194.9	45
+Magikarp	Water		20	80	22	255
+Gyarados	Water	Flying	95	81	518.1	45
+Lapras	Water	Ice	130	60	485	45
+Ditto	Normal		48	48	8.8	35
+Eevee	Normal		55	55	14.3	45
+Vaporeon	Water		130	65	63.9	45
+Jolteon	Electric		65	130	54	45
+Flareon	Fire		65	65	55.1	45
+Porygon	Normal		65	40	80.5	45
+Omanyte	Rock	Water	35	35	16.5	45
+Omastar	Rock	Water	70	55	77.2	45
+Kabuto	Rock	Water	30	55	25.4	45
+Kabutops	Rock	Water	60	80	89.3	45
+Aerodactyl	Rock	Flying	80	130	130.1	45
+Snorlax	Normal		160	30	1014.1	25
+Articuno	Ice	Flying	90	85	1221	3
+Zapdos	Electric	Flying	90	100	116	3
+Moltres	Fire	Flying	90	90	132.3	3
+Dratini	Dragon		41	50	7.3	45
+Dragonair	Dragon		61	70	36.4	45
+Dragonite	Dragon	Flying	91	80	463	45
+Mewtwo	Psychic		106	130	269	3
+Mew	Psychic		100	100	8.8	45
+Chikorita	Grass		45	45	14.1	45
+Bayleef	Grass		60	60	34.8	45
+Meganium	Grass		80	80	221.6	45
+Cyndaquil	Fire		39	65	17.4	45
+Quilava	Fire		58	80	41.9	45
+Typhlosion	Fire		78	100	175.3	45
+Totodile	Water		50	43	20.9	45
+Croconaw	Water		65	58	55.1	45
+Feraligatr	Water		85	78	195.8	45
+Sentret	Normal		35	20	13.2	255
+Furret	Normal		85	90	71.7	90
+Hoothoot	Normal	Flying	60	50	46.7	255
+Noctowl	Normal	Flying	100	70	89.9	90
+Ledyba	Bug	Flying	40	55	23.8	255
+Ledian	Bug	Flying	55	85	78.5	90
+Spinarak	Bug	Poison	40	30	18.7	255
+Ariados	Bug	Poison	70	40	73.9	90
+Crobat	Poison	Flying	85	130	165.3	90
+Chinchou	Water	Electric	75	67	26.5	190
+Lanturn	Water	Electric	125	67	49.6	75
+Pichu	Electric		20	60	4.4	190
+Cleffa	Fairy		50	15	6.6	150
+Igglybuff	Normal	Fairy	90	15	2.2	170
+Togepi	Fairy		35	20	3.3	190
+Togetic	Fairy	Flying	55	40	7.1	75
+Natu	Psychic	Flying	40	70	4.4	190
+Xatu	Psychic	Flying	65	95	33.1	75
+Mareep	Electric		55	35	17.2	235
+Flaaffy	Electric		70	45	29.3	120
+Ampharos	Electric		90	55	135.6	45
+Bellossom	Grass		75	50	12.8	45
+Marill	Water	Fairy	70	40	18.7	190
+Azumarill	Water	Fairy	100	50	62.8	75
+Sudowoodo	Rock		70	30	83.8	65
+Politoed	Water		90	70	74.7	45
+Hoppip	Grass	Flying	35	50	1.1	255
+Skiploom	Grass	Flying	55	80	2.2	120
+Jumpluff	Grass	Flying	75	110	6.6	45
+Aipom	Normal		55	85	25.4	45
+Sunkern	Grass		30	30	4	235
+Sunflora	Grass		75	30	18.7	120
+Yanma	Bug	Flying	65	95	83.8	75
+Wooper	Water	Ground	55	15	18.7	255
+Quagsire	Water	Ground	95	35	165.3	90
+Espeon	Psychic		65	110	58.4	45
+Umbreon	Dark		95	65	59.5	45
+Murkrow	Dark	Flying	60	91	4.6	30
+Slowking	Water	Psychic	95	30	175.3	70
+Misdreavus	Ghost		60	85	2.2	45
+Unown	Psychic		48	48	11	225
+Wobbuffet	Psychic		190	33	62.8	45
+Girafarig	Normal	Psychic	70	85	91.5	60
+Pineco	Bug		50	15	16.9	190
+Forretress	Bug	Steel	75	40	277.3	75
+Dunsparce	Normal		100	45	30.9	190
+Gligar	Ground	Flying	65	85	142.9	60
+Steelix	Steel	Ground	75	30	881.8	25
+Snubbull	Fairy		60	30	17.2	190
+Granbull	Fairy		90	45	107.4	75
+Qwilfish	Water	Poison	65	85	8.6	45
+Scizor	Bug	Steel	70	65	260.1	25
+Shuckle	Bug	Rock	20	5	45.2	190
+Heracross	Bug	Fighting	80	85	119	45
+Sneasel	Dark	Ice	55	115	61.7	60
+Teddiursa	Normal		60	40	19.4	120
+Ursaring	Normal		90	55	277.3	60
+Slugma	Fire		40	20	77.2	190
+Magcargo	Fire	Rock	60	30	121.3	75
+Swinub	Ice	Ground	50	50	14.3	225
+Piloswine	Ice	Ground	100	50	123	75
+Corsola	Water	Rock	65	35	11	60
+Remoraid	Water		35	65	26.5	190
+Octillery	Water		75	45	62.8	75
+Delibird	Ice	Flying	45	75	35.3	45
+Mantine	Water	Flying	85	70	485	25
+Skarmory	Steel	Flying	65	70	111.3	25
+Houndour	Dark	Fire	45	65	23.8	120
+Houndoom	Dark	Fire	75	95	77.2	45
+Kingdra	Water	Dragon	75	85	335.1	45
+Phanpy	Ground		90	40	73.9	120
+Donphan	Ground		90	50	264.6	60
+Porygon2	Normal		85	60	71.7	45
+Stantler	Normal		73	85	157	45
+Smeargle	Normal		55	75	127.9	45
+Tyrogue	Fighting		35	35	46.3	75
+Hitmontop	Fighting		50	70	105.8	45
+Smoochum	Ice	Psychic	45	65	13.2	45
+Elekid	Electric		45	95	51.8	45
+Magby	Fire		45	83	47.2	45
+Miltank	Normal		95	100	166.4	45
+Blissey	Normal		255	55	103.2	30
+Raikou	Electric		90	115	392.4	3
+Entei	Fire		115	100	4396.5	3
+Suicune	Water		100	85	412.3	3
+Larvitar	Rock	Ground	50	41	158.7	45
+Pupitar	Rock	Ground	70	51	335.1	45
+Tyranitar	Rock	Dark	100	61	445.3	45
+Lugia	Psychic	Flying	106	110	476.2	3
+Ho-Oh	Fire	Flying	106	90	438.7	3
+Celebi	Psychic	Grass	100	100	11	45
+Treecko	Grass		40	70	47.6	45
+Grovyle	Grass		50	95	121.7	45
+Sceptile	Grass		70	120	115.1	45
+Torchic	Fire		45	45	5.5	45
+Combusken	Fire	Fighting	60	55	43	45
+Blaziken	Fire	Fighting	80	80	114.6	45
+Mudkip	Water		50	40	16.8	45
+Marshtomp	Water	Ground	70	50	61.7	45
+Swampert	Water	Ground	100	60	180.6	45
+Poochyena	Dark		35	35	30	255
+Mightyena	Dark		70	70	81.6	127
+Zigzagoon	Normal		38	60	38.6	255
+Linoone	Normal		78	100	71.7	90
+Wurmple	Bug		45	20	7.9	255
+Silcoon	Bug		50	15	22	120
+Beautifly	Bug	Flying	60	65	62.6	45
+Cascoon	Bug		50	15	25.4	120
+Dustox	Bug	Poison	60	65	69.7	45
+Lotad	Water	Grass	40	30	5.7	255
+Lombre	Water	Grass	60	50	71.7	120
+Ludicolo	Water	Grass	80	70	121.3	45
+Seedot	Grass		40	30	8.8	255
+Nuzleaf	Grass	Dark	70	60	61.7	120
+Shiftry	Grass	Dark	90	80	131.4	45
+Taillow	Normal	Flying	40	85	5.1	200
+Swellow	Normal	Flying	60	125	43.7	45
+Wingull	Water	Flying	40	85	20.9	190
+Pelipper	Water	Flying	60	65	61.7	45
+Ralts	Psychic	Fairy	28	40	14.6	235
+Kirlia	Psychic	Fairy	38	50	44.5	120
+Gardevoir	Psychic	Fairy	68	80	106.7	45
+Surskit	Bug	Water	40	65	3.7	200
+Masquerain	Bug	Flying	70	80	7.9	75
+Shroomish	Grass		60	35	9.9	255
+Breloom	Grass	Fighting	60	70	86.4	90
+Slakoth	Normal		60	30	52.9	255
+Vigoroth	Normal		80	90	102.5	120
+Slaking	Normal		150	100	287.7	45
+Nincada	Bug	Ground	31	40	12.1	255
+Ninjask	Bug	Flying	61	160	26.5	120
+Shedinja	Bug	Ghost	1	40	2.6	45
+Whismur	Normal		64	28	2.6	190
+Loudred	Normal		84	48	35.9	120
+Exploud	Normal		104	68	89.3	45
+Makuhita	Fighting		72	25	185.2	180
+Hariyama	Fighting		144	50	559.5	200
+Azurill	Normal	Fairy	50	20	4.4	150
+Nosepass	Rock		30	30	213.8	255
+Skitty	Normal		50	50	24.3	255
+Delcatty	Normal		70	90	71.9	60
+Sableye	Dark	Ghost	50	50	24.3	45
+Mawile	Steel	Fairy	50	50	25.4	45
+Aron	Steel	Rock	50	30	132.3	180
+Lairon	Steel	Rock	60	40	264.6	90
+Aggron	Steel	Rock	70	50	793.7	45
+Meditite	Fighting	Psychic	30	60	24.7	180
+Medicham	Fighting	Psychic	60	80	69.4	90
+Electrike	Electric		40	65	33.5	120
+Manectric	Electric		70	105	88.6	45
+Plusle	Electric		60	95	9.3	200
+Minun	Electric		60	95	9.3	200
+Volbeat	Bug		65	85	39	150
+Illumise	Bug		65	85	39	150
+Roselia	Grass	Poison	50	65	4.4	150
+Gulpin	Poison		70	40	22.7	225
+Swalot	Poison		100	55	176.4	75
+Carvanha	Water	Dark	45	65	45.9	225
+Sharpedo	Water	Dark	70	95	195.8	60
+Wailmer	Water		130	60	286.6	125
+Wailord	Water		170	60	877.4	60
+Numel	Fire	Ground	60	35	52.9	255
+Camerupt	Fire	Ground	70	40	485	150
+Torkoal	Fire		70	20	177.3	90
+Spoink	Psychic		60	60	67.5	255
+Grumpig	Psychic		80	80	157.6	60
+Spinda	Normal		60	60	11	255
+Trapinch	Ground		45	10	33.1	255
+Vibrava	Ground	Dragon	50	70	33.7	120
+Flygon	Ground	Dragon	80	100	180.8	45
+Cacnea	Grass		50	35	113.1	190
+Cacturne	Grass	Dark	70	55	170.6	60
+Swablu	Normal	Flying	45	50	2.6	255
+Altaria	Dragon	Flying	75	80	45.4	45
+Zangoose	Normal		73	90	88.8	90
+Seviper	Poison		73	65	115.7	90
+Lunatone	Rock	Psychic	90	70	370.4	45
+Solrock	Rock	Psychic	90	70	339.5	45
+Barboach	Water	Ground	50	60	4.2	190
+Whiscash	Water	Ground	110	60	52	75
+Corphish	Water		43	35	25.4	205
+Crawdaunt	Water	Dark	63	55	72.3	155
+Baltoy	Ground	Psychic	40	55	47.4	255
+Claydol	Ground	Psychic	60	75	238.1	90
+Lileep	Rock	Grass	66	23	52.5	45
+Cradily	Rock	Grass	86	43	133.2	45
+Anorith	Rock	Bug	45	75	27.6	45
+Armaldo	Rock	Bug	75	45	150.4	45
+Feebas	Water		20	80	16.3	255
+Milotic	Water		95	81	357.1	60
+Castform	Normal		70	70	1.8	45
+Kecleon	Normal		60	40	48.5	200
+Shuppet	Ghost		44	45	5.1	225
+Banette	Ghost		64	65	27.6	45
+Duskull	Ghost		20	25	33.1	190
+Dusclops	Ghost		40	25	67.5	90
+Tropius	Grass	Flying	99	51	220.5	200
+Chimecho	Psychic		75	65	2.2	45
+Absol	Dark		65	75	103.6	30
+Wynaut	Psychic		95	23	30.9	125
+Snorunt	Ice		50	50	37	190
+Glalie	Ice		80	80	772.1	75
+Spheal	Ice	Water	70	25	565.5	255
+Sealeo	Ice	Water	90	45	87.1	120
+Walrein	Ice	Water	110	65	193.1	45
+Clamperl	Water		35	32	332	255
+Huntail	Water		55	52	115.7	60
+Gorebyss	Water		55	52	59.5	60
+Relicanth	Water	Rock	100	55	51.6	25
+Luvdisc	Water		43	97	19.2	225
+Bagon	Dragon		45	50	92.8	45
+Shelgon	Dragon		65	50	243.6	45
+Salamence	Dragon	Flying	95	100	226.2	45
+Beldum	Steel	Psychic	40	30	209.9	3
+Metang	Steel	Psychic	60	50	446.4	3
+Metagross	Steel	Psychic	80	70	1212.5	3
+Regirock	Rock		80	50	507.1	3
+Regice	Ice		80	50	385.8	3
+Registeel	Steel		80	50	451.9	3
+Latias	Dragon	Psychic	80	110	88.2	3
+Latios	Dragon	Psychic	80	110	132.3	3
+Kyogre	Water		100	90	776	3
+PrimalKyogre	Water		100	90	948	3
+Groudon	Ground		100	90	2094.4	3
+PrimalGroudon	Ground	Fire	100	90	2204.4	3
+Rayquaza	Dragon	Flying	105	95	455.3	45
+Jirachi	Steel	Psychic	100	100	2.4	3
+Deoxys	Psychic		50	150	134	3
+Turtwig	Grass		55	31	22.5	45
+Grotle	Grass		75	36	213.8	45
+Torterra	Grass	Ground	95	56	683.4	45
+Chimchar	Fire		44	61	13.7	45
+Monferno	Fire	Fighting	64	81	48.5	45
+Infernape	Fire	Fighting	76	108	121.3	45
+Piplup	Water		53	40	11.5	45
+Prinplup	Water		64	50	50.7	45
+Empoleon	Water	Steel	84	60	186.3	45
+Starly	Normal	Flying	40	60	4.4	255
+Staravia	Normal	Flying	55	80	34.2	120
+Staraptor	Normal	Flying	85	100	54.9	45
+Bidoof	Normal		59	31	44.1	255
+Bibarel	Normal	Water	79	71	69.4	127
+Kricketot	Bug		37	25	4.9	255
+Kricketune	Bug		77	65	56.2	45
+Shinx	Electric		45	45	20.9	235
+Luxio	Electric		60	60	67.2	120
+Luxray	Electric		80	70	92.6	45
+Budew	Grass	Poison	40	55	2.6	255
+Roserade	Grass	Poison	60	90	32	75
+Cranidos	Rock		67	58	69.4	45
+Rampardos	Rock		97	58	226	45
+Shieldon	Rock	Steel	30	30	125.7	45
+Bastiodon	Rock	Steel	60	30	329.6	45
+Burmy	Bug		40	36	7.5	120
+WormadamPlantCloak	Bug	Grass	60	36	14.3	45
+WormadamSandyCloak	Bug	Ground	60	36	14.3	45
+WormadamTrashCloak	Bug	Steel	60	36	14.3	45
+Mothim	Bug	Flying	70	66	51.4	45
+Combee	Bug	Flying	30	70	12.1	120
+Vespiquen	Bug	Flying	70	40	84.9	45
+Pachirisu	Electric		60	95	8.6	200
+Buizel	Water		55	85	65	190
+Floatzel	Water		85	115	73.9	75
+Cherubi	Grass		45	35	7.3	190
+Cherrim	Grass		70	85	20.5	75
+Shellos	Water		76	34	13.9	190
+Gastrodon	Water	Ground	111	39	65.9	75
+Ambipom	Normal		75	115	44.8	45
+Drifloon	Ghost	Flying	90	70	2.6	125
+Drifblim	Ghost	Flying	150	80	33.1	60
+Buneary	Normal		55	85	12.1	190
+Lopunny	Normal		65	105	62.4	60
+Mismagius	Ghost		60	105	73.4	45
+Honchkrow	Dark	Flying	100	71	9.7	30
+Glameow	Normal		49	85	60.2	190
+Purugly	Normal		71	112	96.6	75
+Chingling	Psychic		45	45	1.3	120
+Stunky	Poison	Dark	63	74	42.3	225
+Skuntank	Poison	Dark	103	84	83.8	60
+Bronzor	Steel	Psychic	57	23	133.4	255
+Bronzong	Steel	Psychic	67	33	412.3	90
+Bonsly	Rock		50	10	33.1	255
+MimeJr.	Psychic	Fairy	20	60	28.7	145
+Happiny	Normal		100	30	53.8	130
+Chatot	Normal	Flying	76	91	4.2	30
+Spiritomb	Ghost	Dark	50	35	238.1	100
+Gible	Dragon	Ground	58	42	45.2	45
+Gabite	Dragon	Ground	68	82	123.5	45
+Garchomp	Dragon	Ground	108	102	209.4	45
+Munchlax	Normal		135	5	231.5	50
+Riolu	Fighting		40	60	44.5	75
+Lucario	Fighting	Steel	70	90	119	45
+Hippopotas	Ground		68	32	109.1	140
+Hippowdon	Ground		108	47	661.4	60
+Skorupi	Poison	Bug	40	65	26.5	120
+Drapion	Poison	Dark	70	95	135.6	45
+Croagunk	Poison	Fighting	48	50	50.7	140
+Toxicroak	Poison	Fighting	83	85	97.9	75
+Carnivine	Grass		74	46	59.5	200
+Finneon	Water		49	66	15.4	190
+Lumineon	Water		69	91	52.9	75
+Mantyke	Water	Flying	45	50	143.3	25
+Snover	Grass	Ice	60	40	11.3	120
+Abomasnow	Grass	Ice	90	60	298.7	60
+Weavile	Dark	Ice	70	125	75	45
+Magnezone	Electric	Steel	70	60	396.8	30
+Lickilicky	Normal		110	50	308.6	30
+Rhyperior	Ground	Rock	115	40	623.5	30
+Tangrowth	Grass		100	50	283.5	30
+Electivire	Electric		75	95	605.6	30
+Magmortar	Fire		75	83	149.9	30
+Togekiss	Fairy	Flying	85	80	83.8	30
+Yanmega	Bug	Flying	86	95	113.5	30
+Leafeon	Grass		65	95	56.2	45
+Glaceon	Ice		65	65	57.1	45
+Gliscor	Ground	Flying	75	95	93.7	30
+Mamoswine	Ice	Ground	110	80	641.5	50
+Porygon-Z	Normal		85	90	75	30
+Gallade	Psychic	Fighting	68	80	114.6	45
+Probopass	Rock	Steel	60	40	749.6	60
+Dusknoir	Ghost		45	45	235	45
+Froslass	Ice	Ghost	70	110	58.6	75
+Rotom	Electric	Ghost	50	91	0.7	45
+Uxie	Psychic		75	95	0.7	3
+Mesprit	Psychic		80	80	0.7	3
+Azelf	Psychic		75	115	0.7	3
+Dialga	Steel	Dragon	100	90	1505.8	3
+Palkia	Water	Dragon	90	100	740.8	3
+Heatran	Fire	Steel	91	77	948	3
+Regigigas	Normal		110	100	925.9	3
+Giratina	Ghost	Dragon	150	90	1653.5	3
+GiratinaOriginForme	Ghost	Dragon	150	90	1433	3
+Cresselia	Psychic		120	85	188.7	3
+Phione	Water		80	80	6.7	30
+Manaphy	Water		100	100	3.1	3
+Darkrai	Dark		70	125	111.3	3
+ShayminLand	Grass		100	100	11.5	45
+ShayminSkyForme	Grass	Flying	100	127	4.6	45
+Arceus	Normal		120	120	705.5	3
+Victini	Psychic	Fire	100	100	8.8	3
+Snivy	Grass		45	63	17.9	45
+Servine	Grass		60	83	35.3	45
+Serperior	Grass		75	113	138.9	45
+Tepig	Fire		65	45	21.8	45
+Pignite	Fire	Fighting	90	55	122.4	45
+Emboar	Fire	Fighting	110	65	330.7	45
+Oshawott	Water		55	45	13	45
+Dewott	Water		75	60	54	45
+Samurott	Water		95	70	208.6	45
+Patrat	Normal		45	42	25.6	255
+Watchog	Normal		60	77	59.5	255
+Lillipup	Normal		45	55	9	255
+Herdier	Normal		65	60	32.4	120
+Stoutland	Normal		85	80	134.5	45
+Purrloin	Dark		41	66	22.3	255
+Liepard	Dark		64	106	82.7	90
+Pansage	Grass		50	64	23.1	190
+Simisage	Grass		75	101	67.2	75
+Pansear	Fire		50	64	24.3	190
+Simisear	Fire		75	101	61.7	75
+Panpour	Water		50	64	29.8	190
+Simipour	Water		75	101	63.9	75
+Munna	Psychic		76	24	51.4	190
+Musharna	Psychic		116	29	133.4	75
+Pidove	Normal	Flying	50	43	4.6	255
+Tranquill	Normal	Flying	62	65	33.1	120
+Unfezant	Normal	Flying	80	93	63.9	45
+Blitzle	Electric		45	76	65.7	190
+Zebstrika	Electric		75	116	175.3	75
+Roggenrola	Rock		55	15	39.7	255
+Boldore	Rock		70	20	224.9	120
+Gigalith	Rock		85	25	573.2	45
+Woobat	Psychic	Flying	65	72	4.6	190
+Swoobat	Psychic	Flying	67	114	23.1	45
+Drilbur	Ground		60	68	18.7	120
+Excadrill	Ground	Steel	110	88	89.1	60
+Audino	Normal		103	50	68.3	255
+Timburr	Fighting		75	35	27.6	180
+Gurdurr	Fighting		85	40	88.2	90
+Conkeldurr	Fighting		105	45	191.8	45
+Tympole	Water		50	64	9.9	255
+Palpitoad	Water	Ground	75	69	37.5	120
+Seismitoad	Water	Ground	105	74	136.7	45
+Throh	Fighting		120	45	122.4	45
+Sawk	Fighting		75	85	112.4	45
+Sewaddle	Bug	Grass	45	42	5.5	255
+Swadloon	Bug	Grass	55	42	16.1	120
+Leavanny	Bug	Grass	75	92	45.2	45
+Venipede	Bug	Poison	30	57	11.7	255
+Whirlipede	Bug	Poison	40	47	129	120
+Scolipede	Bug	Poison	60	112	442	45
+Cottonee	Grass	Fairy	40	66	1.3	190
+Whimsicott	Grass	Fairy	60	116	14.6	75
+Petilil	Grass		45	30	14.6	190
+Lilligant	Grass		70	90	35.9	75
+Basculin	Water		70	98	39.7	25
+Sandile	Ground	Dark	50	65	33.5	180
+Krokorok	Ground	Dark	60	74	73.6	90
+Krookodile	Ground	Dark	95	92	212.3	45
+Darumaka	Fire		70	50	82.7	120
+Darmanitan	Fire		105	95	204.8	60
+ZenDarmanitan	Fire	Psychic	105	55	204.8	60
+Maractus	Grass		75	60	61.7	255
+Dwebble	Bug	Rock	50	55	32	190
+Crustle	Bug	Rock	70	45	440.9	75
+Scraggy	Dark	Fighting	50	48	26	180
+Scrafty	Dark	Fighting	65	58	66.1	90
+Sigilyph	Psychic	Flying	72	97	30.9	45
+Yamask	Ghost		38	30	3.3	190
+Cofagrigus	Ghost		58	30	168.7	90
+Tirtouga	Water	Rock	54	22	36.4	45
+Carracosta	Water	Rock	74	32	178.6	45
+Archen	Rock	Flying	55	70	20.9	45
+Archeops	Rock	Flying	75	110	70.5	45
+Trubbish	Poison		50	65	68.3	190
+Garbodor	Poison		80	75	236.6	60
+Zorua	Dark		40	65	27.6	75
+Zoroark	Dark		60	105	178.8	45
+Minccino	Normal		55	75	12.8	255
+Cinccino	Normal		75	115	16.5	60
+Gothita	Psychic		45	45	12.8	200
+Gothorita	Psychic		60	55	39.7	100
+Gothitelle	Psychic		70	65	97	50
+Solosis	Psychic		45	20	2.2	200
+Duosion	Psychic		65	30	17.6	100
+Reuniclus	Psychic		110	30	44.3	50
+Ducklett	Water	Flying	62	55	12.1	190
+Swanna	Water	Flying	75	98	53.4	45
+Vanillite	Ice		36	44	12.6	255
+Vanillish	Ice		51	59	90.4	120
+Vanilluxe	Ice		71	79	126.8	45
+Deerling	Normal	Grass	60	75	43	190
+Sawsbuck	Normal	Grass	80	95	203.9	75
+Emolga	Electric	Flying	55	103	11	200
+Karrablast	Bug		50	60	13	200
+Escavalier	Bug	Steel	70	20	72.8	75
+Foongus	Grass	Poison	69	15	2.2	190
+Amoonguss	Grass	Poison	114	30	23.1	75
+Frillish	Water	Ghost	55	40	72.8	190
+Jellicent	Water	Ghost	100	60	297.6	60
+Alomomola	Water		165	65	69.7	75
+Joltik	Bug	Electric	50	65	1.3	190
+Galvantula	Bug	Electric	70	108	31.5	75
+Ferroseed	Grass	Steel	44	10	41.4	255
+Ferrothorn	Grass	Steel	74	20	242.5	90
+Klink	Steel		40	30	46.3	130
+Klang	Steel		60	50	112.4	60
+Klinklang	Steel		60	90	178.6	30
+Tynamo	Electric		35	60	0.7	190
+Eelektrik	Electric		65	40	48.5	60
+Eelektross	Electric		85	50	177.5	30
+Elgyem	Psychic		55	30	19.8	255
+Beheeyem	Psychic		75	40	76.1	90
+Litwick	Ghost	Fire	50	20	6.8	190
+Lampent	Ghost	Fire	60	55	28.7	90
+Chandelure	Ghost	Fire	60	80	75.6	45
+Axew	Dragon		46	57	39.7	75
+Fraxure	Dragon		66	67	79.4	60
+Haxorus	Dragon		76	97	232.6	45
+Cubchoo	Ice		55	40	18.7	120
+Beartic	Ice		95	50	573.2	60
+Cryogonal	Ice		80	105	326.3	25
+Shelmet	Bug		50	25	17	200
+Accelgor	Bug		80	145	55.8	75
+Stunfisk	Ground	Electric	109	32	24.3	75
+Mienfoo	Fighting		45	65	44.1	180
+Mienshao	Fighting		65	105	78.3	45
+Druddigon	Dragon		77	48	306.4	45
+Golett	Ground	Ghost	59	35	202.8	190
+Golurk	Ground	Ghost	89	55	727.5	90
+Pawniard	Dark	Steel	45	60	22.5	120
+Bisharp	Dark	Steel	65	70	154.3	45
+Bouffalant	Normal		95	55	208.6	45
+Rufflet	Normal	Flying	70	60	23.1	190
+Braviary	Normal	Flying	100	80	90.4	60
+Vullaby	Dark	Flying	70	60	19.8	190
+Mandibuzz	Dark	Flying	110	80	87.1	60
+Heatmor	Fire		85	65	127.9	90
+Durant	Bug	Steel	58	109	72.8	90
+Deino	Dark	Dragon	52	38	38.1	45
+Zweilous	Dark	Dragon	72	58	110.2	45
+Hydreigon	Dark	Dragon	92	98	352.7	45
+Larvesta	Bug	Fire	55	60	63.5	45
+Volcarona	Bug	Fire	85	100	101.4	15
+Cobalion	Steel	Fighting	91	108	551.2	3
+Terrakion	Rock	Fighting	91	108	573.2	3
+Virizion	Grass	Fighting	91	108	440.9	3
+Tornadus	Flying		79	111	138.9	3
+Thundurus	Electric	Flying	79	111	134.5	3
+Reshiram	Dragon	Fire	100	90	727.5	3
+Zekrom	Dragon	Electric	100	90	760.6	3
+Landorus	Ground	Flying	89	101	149.9	3
+Kyurem	Dragon	Ice	125	95	716.5	3
+Keldeo	Water	Fighting	91	108	106.9	3
+MeloettaAriaForme	Normal	Psychic	100	90	14.3	3
+MeloettaPirouetteForme	Normal	Fighting	100	128	14.3	3
+Genesect	Bug	Steel	71	99	181.9	3
+Chespin	Grass		56	38	19.8	45
+Quilladin	Grass		61	57	63.9	45
+Chesnaught	Grass	Fighting	88	64	198.4	45
+Fennekin	Fire		40	60	20.7	45
+Braixen	Fire		59	73	32	45
+Delphox	Fire	Psychic	75	104	86	45
+Froakie	Water		41	71	15.4	45
+Frogadier	Water		54	97	24	45
+Greninja	Water	Dark	72	122	88.2	45
+Bunnelby	Normal		38	57	11	255
+Diggersby	Normal	Ground	85	78	93.5	127
+Fletchling	Normal	Flying	45	62	3.7	255
+Fletchinder	Fire	Flying	62	84	35.3	120
+Talonflame	Fire	Flying	78	126	54	45
+Scatterbug	Bug		38	35	5.5	255
+Spewpa	Bug		45	29	18.5	120
+Vivillon	Bug	Flying	80	89	37.5	45
+Litleo	Fire	Normal	62	72	29.8	220
+Pyroar	Fire	Normal	86	106	179.7	65
+Flabébé	Fairy		44	42	0.2	225
+Floette	Fairy		54	52	2	120
+Florges	Fairy		78	75	22	45
+Skiddo	Grass		66	52	68.3	200
+Gogoat	Grass		123	68	200.6	45
+Pancham	Fighting		67	43	17.6	220
+Pangoro	Fighting	Dark	95	58	299.8	65
+Furfrou	Normal		75	102	61.7	160
+Espurr	Psychic		62	68	7.7	190
+Meowstic	Psychic		74	104	18.7	75
+Honedge	Steel	Ghost	45	28	4.4	180
+Doublade	Steel	Ghost	59	35	9.9	90
+Aegislash	Steel	Ghost	60	60	116.8	45
+Spritzee	Fairy		78	23	1.1	200
+Aromatisse	Fairy		101	29	34.2	140
+Swirlix	Fairy		62	49	7.7	200
+Slurpuff	Fairy		82	72	11	140
+Inkay	Dark	Psychic	53	45	7.7	190
+Malamar	Dark	Psychic	86	73	103.6	80
+Binacle	Rock	Water	42	50	68.3	120
+Barbaracle	Rock	Water	72	68	211.6	45
+Skrelp	Poison	Water	50	30	16.1	225
+Dragalge	Poison	Dragon	65	44	179.7	55
+Clauncher	Water		50	44	18.3	225
+Clawitzer	Water		71	59	77.8	55
+Helioptile	Electric	Normal	44	70	13.2	190
+Heliolisk	Electric	Normal	62	109	46.3	75
+Tyrunt	Rock	Dragon	58	48	57.3	45
+Tyrantrum	Rock	Dragon	82	71	595.2	45
+Amaura	Rock	Ice	77	46	55.6	45
+Aurorus	Rock	Ice	123	58	496	45
+Sylveon	Fairy		95	60	51.8	45
+Hawlucha	Fighting	Flying	78	118	47.4	100
+Dedenne	Electric	Fairy	67	101	4.9	180
+Carbink	Rock	Fairy	50	50	12.6	60
+Goomy	Dragon		45	40	6.2	45
+Sliggoo	Dragon		68	60	38.6	45
+Goodra	Dragon		90	80	331.8	45
+Klefki	Steel	Fairy	57	75	6.6	75
+Phantump	Ghost	Grass	43	38	15.4	120
+Trevenant	Ghost	Grass	85	56	156.5	60
+PumpkabooSmallSize	Ghost	Grass	44	56	7.7	120
+PumpkabooAverageSize	Ghost	Grass	49	51	11	120
+PumpkabooLargeSize	Ghost	Grass	54	46	16.5	120
+PumpkabooSuperSize	Ghost	Grass	59	41	33.1	120
+GourgeistSmallSize	Ghost	Grass	55	99	20.9	60
+GourgeistAverageSize	Ghost	Grass	65	84	27.6	60
+GourgeistLargeSize	Ghost	Grass	75	69	30.9	60
+GourgeistSuperSize	Ghost	Grass	85	54	86	60
+Bergmite	Ice		55	28	219.4	190
+Avalugg	Ice		95	28	1113.3	55
+Noibat	Flying	Dragon	40	55	17.6	190
+Noivern	Flying	Dragon	85	123	187.4	45
+Xerneas	Fairy		126	99	474	45
+Yveltal	Dark	Flying	126	99	447.5	45
+Zygarde50%Forme	Dragon	Ground	108	95	672.4	3
+Zygarde10%Forme	Dragon	Ground	54	115	73.9	3
+ZygardeCompleteForme	Dragon	Ground	216	85	1344.8	3
+Diancie	Rock	Fairy	50	50	19.4	3
+HoopaConfined	Psychic	Ghost	80	70	19.8	3
+HoopaUnbound	Psychic	Dark	80	80	1080.3	3
+Volcanion	Fire	Water	80	70	429.9	3
+Rowlet	Grass	Flying	68	42	3.3	45
+Dartrix	Grass	Flying	78	52	35.3	45
+Decidueye	Grass	Ghost	78	70	80.7	45
+Litten	Fire		45	70	9.5	45
+Torracat	Fire		65	90	55.1	45
+Incineroar	Fire	Dark	95	60	183	45
+Popplio	Water		50	40	16.5	45
+Brionne	Water		60	50	38.6	45
+Primarina	Water	Fairy	80	60	97	45
+Pikipek	Normal	Flying	35	65	2.6	255
+Trumbeak	Normal	Flying	55	75	32.6	120
+Toucannon	Normal	Flying	80	60	57.3	45
+Yungoos	Normal		48	45	13.2	255
+Gumshoos	Normal		88	45	31.3	127
+Grubbin	Bug		47	46	9.7	255
+Charjabug	Bug	Electric	57	36	23.1	120
+Vikavolt	Bug	Electric	77	43	99.2	45
+Crabrawler	Fighting		47	63	15.4	225
+Crabominable	Fighting	Ice	97	43	396.8	60
+Oricorio	Fire	Flying	75	93	7.5	45
+Cutiefly	Bug	Fairy	40	84	0.4	190
+Ribombee	Bug	Fairy	60	124	1.1	75
+Rockruff	Rock		45	60	20.3	190
+Lycanroc (Midday Form)	Rock		75	112	55.2	90
+Lycanroc (Midnight Form)	Rock		85	82	55.1	90
+Lycanroc (Dusk Form)	Rock		75	110	55.1	90
+Wishiwashi (Solo Form)	Water		45	40	0.7	60
+Wishiwashi (School Form)	Water		45	30	173.3	60
+Mareanie	Poison	Water	50	45	17.6	190
+Toxapex	Poison	Water	50	35	32	75
+Mudbray	Ground		70	45	242.5	190
+Mudsdale	Ground		100	35	2028.3	60
+Dewpider	Water	Bug	38	27	8.8	200
+Araquanid	Water	Bug	68	42	180.8	100
+Fomantis	Grass		40	35	3.3	190
+Lurantis	Grass		70	45	40.8	75
+Morelull	Grass	Fairy	40	15	3.3	190
+Shiinotic	Grass	Fairy	60	30	25.4	75
+Salandit	Poison	Fire	48	77	10.6	120
+Salazzle	Poison	Fire	68	117	48.9	45
+Stufful	Normal	Fighting	70	50	15	140
+Bewear	Normal	Fighting	120	60	297.6	70
+Bounsweet	Grass		42	32	7.1	235
+Steenee	Grass		52	62	18.1	120
+Tsareena	Grass		72	72	47.2	45
+Comfey	Fairy		51	100	0.7	60
+Oranguru	Normal	Psychic	90	60	167.6	45
+Passimian	Fighting		100	80	182.5	45
+Wimpod	Bug	Water	25	80	26.5	90
+Golisopod	Bug	Water	75	40	238.1	45
+Sandygast	Ghost	Ground	55	15	154.3	140
+Palossand	Ghost	Ground	85	35	551.2	60
+Pyukumuku	Water		55	5	2.6	60
+Type: Null	Normal		95	59	265.7	3
+Silvally	Normal		95	95	221.6	3
+MiniorMeteorForm	Rock	Flying	60	60	88.2	30
+MiniorCoreForm	Rock	Flying	60	120	0.7	30
+Komala	Normal		65	65	43.9	45
+Turtonator	Fire	Dragon	60	36	467.4	70
+Togedemaru	Electric	Steel	65	96	7.3	180
+Mimikyu	Ghost	Fairy	55	96	1.5	45
+Bruxish	Water	Psychic	68	92	41.9	80
+Drampa	Normal	Dragon	78	36	407.9	70
+Dhelmise	Ghost	Grass	70	40	463	25
+Jangmo-o	Dragon		45	45	65.5	45
+Hakamo-o	Dragon	Fighting	55	65	103.6	45
+Kommo-o	Dragon	Fighting	75	85	172.4	45
+TapuKoko	Electric	Fairy	70	130	45.2	3
+TapuLele	Psychic	Fairy	70	95	41	3
+TapuBulu	Grass	Fairy	70	75	100.3	3
+TapuFini	Water	Fairy	70	85	46.7	3
+Cosmog	Psychic		43	37	0.2	45
+Cosmoem	Psychic		43	37	2204.4	45
+Solgaleo	Psychic	Steel	137	97	507.1	45
+Lunala	Psychic	Ghost	137	97	264.6	45
+Nihilego	Rock	Poison	109	103	122.4	45
+Buzzwole	Bug	Fighting	107	79	735.5	45
+Pheromosa	Bug	Fighting	71	151	55.1	45
+Xurkitree	Electric		83	83	220.5	45
+Celesteela	Steel	Flying	97	61	2204.4	45
+Kartana	Grass	Steel	59	109	0.2	45
+Guzzlord	Dark	Dragon	223	43	1957.7	45
+Necrozma	Psychic		97	79	507.1	255
+Magearna	Steel	Fairy	80	65	177.5	3
+Marshadow	Fighting	Ghost	90	125	48.9	3
+Poipole	Poison		67	73	4	45
+Naganadel	Poison	Dragon	73	121	330.7	45
+Stakataka	Rock	Steel	61	13	1807.8	30
+Blacephalon	Fire	Ghost	53	107	28.7	30
+Zeraora	Electric		88	143	98.1	3
